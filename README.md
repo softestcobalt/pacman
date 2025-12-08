@@ -1,4 +1,4 @@
-# Pac-Man 2D --- Minimalist README
+**Pac Man**
 
 ### Author: Bohdan Yarovenko
 
@@ -75,40 +75,11 @@ A minimalistic overview of the Unity `Assets/` folder:
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
-
-1.  Open the project in Unity (2021+ or Unity 6 recommended).\
-
-2.  Load the scene:
-
-        Assets/Scenes/Pacman.unity
-
-3.  Press **Play**.
-
-------------------------------------------------------------------------
-
-## 🌐 WebGL Build
-
-A WebGL version can be exported using Unity Build Profiles and uploaded
-to itch.io for browser-based play.
-
-------------------------------------------------------------------------
-
-## 🧪 Possible Improvements
-
--   More accurate ghost AI mirroring the original game\
--   Level progression system\
--   Sound effects and retro UI polish\
--   High‑score saving\
--   Mobile controls
-
-------------------------------------------------------------------------
-
 ## 👨‍💻 Author
 
 **Bohdan Yarovenko**\
 Games Design & Development Student\
-Kerry College
+Kerry College Clash Road
 
 ------------------------------------------------------------------------
 
